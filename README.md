@@ -31,4 +31,5 @@ Aby uruchomić projekt, należy sklonować repozytorium na swój komputer i otwo
 ## Opis działania aplikacji
 Aplikacja kalkulatora składa się z dwóch pól tekstowych, w których użytkownik wprowadza liczby oraz przycisków do wykonywania operacji matematycznych. Użytkownik może wprowadzać liczby za pomocą przycisków numerycznych oraz kropki (dla liczb dziesiętnych). Po wprowadzeniu dwóch liczb oraz wybraniu operacji matematycznej, użytkownik może kliknąć przycisk "=" w celu wyświetlenia wyniku działania. W przypadku błędnych danych lub dzielenia przez zero, na ekranie wyświetlany jest komunikat o błędzie.
 
-![ Screenshot programu](CalculatorApp/app/screenshots/image1.png)
+## Screenshoty
+![Screenshot programu](app/screenshots/image1.png)
